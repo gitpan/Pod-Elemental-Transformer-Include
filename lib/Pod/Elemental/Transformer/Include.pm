@@ -1,5 +1,5 @@
 package Pod::Elemental::Transformer::Include;
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 
 use strict;
 use warnings;
@@ -62,7 +62,7 @@ Pod::Elemental::Transformer::Include - include output via files and commands
 
 =head1 VERSION
 
-version 1.000
+version 1.001
 
 =head1 SYNOPSIS
 
